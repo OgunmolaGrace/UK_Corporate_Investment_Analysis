@@ -1,3 +1,4 @@
+<img width="1619" height="571" alt="Screenshot 2025-12-08 124447" src="https://github.com/user-attachments/assets/7ea56b05-ea01-45e1-8269-72413c980649" />
 # UK_Corporate_Investment_Analysis
 Financial modeling and visualization of UK Private Non-Financial Corporation (PNFC) profitability trends, 1997–2024
 1. Data Integration (The Technical Lift)
